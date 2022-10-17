@@ -1,0 +1,272 @@
+body{
+    font-family: "PT sans",sans-serif;
+    margin: 0  ;
+    border: 0;
+}
+header{
+    position: fixed;
+    width: 100%;
+    background-color: #000000;
+}
+
+nav{
+    border: none;
+
+    
+}
+ul{
+    display: flex;
+    margin: 0%;
+    padding-left: 0px;
+    
+  
+   
+}
+#my1{
+    /* padding-left: 30px; */
+}
+.t1{
+    color: #f4f4f4;
+    background-color: #020202;
+    list-style: none;
+    width: 90px;
+    line-height: 40px;
+    /* border: 1px solid whitesmoke; */
+    text-align: center;
+ 
+}
+li:hover{
+background-color: #696969;
+}
+#h{
+    font-size: 50px;
+    font-family: "PT sans",sans-serif;
+}
+#h2{
+    font-size: 40px;
+    font-family: "PT sans",sans-serif;
+}
+
+
+
+#mytunes{
+    font-family: "PT sans",sans-serif;
+   
+    background-color: #252529;
+   
+    
+    border: 1px solid transparent;
+    background-image: url(/Image/pic1\ .jpeg);
+   height: 550px;
+    color: aliceblue;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    
+    padding-top: 290px;
+}
+#ht1{
+    font-size: 70px;
+}
+#ht2{
+    font-size: 28px;
+}
+#dt{
+    font-size: 20px;
+}
+#mymusic{
+    border: 1px solid transparent;
+
+    font-family: "PT sans",sans-serif;
+    color: aliceblue;
+    background-color: #252529;
+    text-align: center;
+
+}
+#m1{
+    font-size: 20px;
+    padding-left: 190px;
+    padding-right:165px;
+}
+#b1{
+    background-color: red;
+    line-height: 35px;
+    color: aliceblue;
+}
+#music{
+    border: 1px solid transparent;
+    background-color: #f4f4f4;
+    text-align: center;
+    line-height: 35px;
+    
+}
+#msi{
+
+    height: 900px;
+}
+#mp{
+    font-size: 18px;
+    padding-left: 215px;
+    padding-right:240px;
+    color: #252529;
+
+}
+#mi{
+
+    width: 1000px;
+    height: 680px;
+
+}
+#b2{
+    line-height: 40px;
+    font-size: 13px;
+    background-color: rgb(36, 36, 94);
+    color: aliceblue;
+}
+#world{
+    border: 1px solid transparent;
+    font-family: "PT sans",sans-serif;
+    background-image: url(/Image/pic4.jpeg);
+    text-align: center;
+    color:aliceblue;
+    background-size: cover;
+    padding:120px ;
+    line-height: 140px;
+    
+}
+#w2{
+    font-size: 18px;
+    padding-left: 110px;
+    padding-right:90px;
+    line-height: 30px;
+    word-spacing: 8px;
+    font-family: "PT sans",sans-serif;
+}
+#w1{
+    font-family: "PT sans",sans-serif;
+    font-size: 23px;
+}
+
+#gc1{
+   
+    /* padding-left: 150px; */
+    border: 1px solid transparent;
+    /* padding: 20%; */
+    display: inline-block;
+    /* width: 150px; */
+    /* margin-top: 0%; */
+    /* padding-top: 20px; */
+   
+}
+#gci{
+    height: 400px;
+    margin-top: 5px;
+}
+
+#gc2{
+    display: inline-block;
+    width: 600px;
+    height: 400px;
+   /* margin-left: 900px; */
+   /* margin-top: 0px; */
+   font-size: 15px;
+    border: 1px solid transparent;
+    line-height: 16px;
+    word-spacing: 8px;
+    
+    
+    
+    
+    }
+#gch{
+    /* border: 1px solid black;
+    height: 200px; */
+    /* margin-top: 30px;
+    margin-left: 900px; */
+    line-height: 40px;
+    font-size: 25px;
+    color: #252529;
+}
+#giftcard{
+    border: 1px solid transparent;
+    height: 400px;
+    align-items: center;
+
+}
+#gift{
+    
+    height: 40px;
+    margin: 10px;
+    margin-left: 50px;
+   
+
+}
+#gcp1 {
+    line-height: 25px;
+    color: #252529;
+     
+}
+#gcp2{
+    font-size: 20px;
+    color: #252529;
+}
+ 
+#r1{
+   
+    font-size: 18px;
+    
+    
+}
+#az{
+    text-decoration: none;
+    color: black;
+}
+#tdiv1{
+
+   background-color: #252529;
+   color: #f4f4f4;
+   margin: px;
+   padding-left: 70px;
+   padding-top: 25px;
+   padding-bottom: 25px;
+   
+   
+    
+}
+#tt1{
+    line-height: 30px;
+    column-width: 50px;
+  
+    text-align: left;
+    
+
+}
+hr{
+ 
+  
+    
+    color: whitesmoke;
+    
+}
+td{
+    
+    width: 300px;
+}
+a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+#fp{
+    
+}
+#ft{
+    border: 1px solid transparent;
+
+    background-color: #322e2eef;
+    line-height: 10px;
+    /* border: 2px solid*/
+    text-align: center;
+    font-size: large;
+    color:  whitesmoke;
+
+}
